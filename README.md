@@ -3,7 +3,7 @@
 
 - <b>Azure</b>
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/VincentlBrooks/SEC-Analyst)
-- <sp><b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b></sp>
+- 
   - 
 - <b>PlaceHolder</b>
   
@@ -12,19 +12,16 @@
 - <b>Place holder</b>
   - 
 
-<h2>Placeholder</h2>
+<h2>Alternate Passions</h2>
 
--
+-<sp><b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b></sp>
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 
 [instagram]:https://www.instagram.com/vint.brooks
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://linkedin.com/in/vincent-brooks-6533191b0
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
